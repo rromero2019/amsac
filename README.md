@@ -1,11 +1,11 @@
-# amsemec_proyect 
+# amsac_proyect 
 (material en construcción)
  
  _Sobre el readme
 
-Este documento contiene información de arquitectura e instalación del amsemec web.
+Este documento contiene información de arquitectura e instalación del amsac web.
 
-_Arquitectura amsemec_web v0.1
+_Arquitectura amsac_web v0.1
 
 Frontend:
 * html
